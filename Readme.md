@@ -42,9 +42,6 @@ Followinng technologies are used to built Tumin:
 
 ## Snapshots of YouTube Analyzer:
 
-### The Logo
-
-![image](https://github.com/Avinash0308/Youtube-Analyzer/blob/main/ReadMe_Images/icon.png)
 
 ### The Extension
 
